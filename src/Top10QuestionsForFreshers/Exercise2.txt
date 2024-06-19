@@ -1,0 +1,15 @@
+What is the difference between 
+useEffect and useLayoutEffect? 
+
+Answer:
+A useEffect runs asynchronously 
+after the paint has been committed to
+ the screen, 
+while useLayoutEffect runs synchronously
+before the paint. This means 
+
+useLayoutEffect 
+can block the visual update, 
+which is useful for measuring 
+layout or updating the DOM 
+before the browser paints.

@@ -1,0 +1,8 @@
+1. What is React?
+React – A JavaScript library for building user interfaces
+Imagine building UIs like Lego sets. Each Lego piece is a
+ React component, a reusable code block that represents a 
+ part of your UI. You can snap these components together to 
+ create complex interfaces dynamically. React helps you 
+ manage these components efficiently and keeps your UI in 
+ sync with your data. 

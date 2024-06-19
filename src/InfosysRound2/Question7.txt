@@ -1,0 +1,14 @@
+What is JSX is reactjs ?
+
+JSX (JavaScript XML) is a syntax extension that allows you to write 
+HTML-like structures within your JavaScript code. This makes 
+it easier to visualize and build user interfaces in React components.
+
+Example of JSX:
+
+return (
+  <div>
+    <h1>Welcome to My App</h1>
+    <p>This is some content.</p>
+  </div>
+);

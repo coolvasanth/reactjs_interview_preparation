@@ -1,0 +1,12 @@
+Difference between display: none vs. visibility: hidden
+
+Both properties hide elements, but with subtle differences:
+
+• display: none: Removes the element from the document flow entirely. 
+    It doesn't occupy any space, and users won't see it. 
+    (Imagine a ninja disappearing completely!)
+
+• visibility: hidden: The element still occupies space in the layout,
+  but it's invisible. Users might see a blank space where the element is
+  hidden. (Think of a transparent sheet covering the element, 
+  making it unseen but still present.)

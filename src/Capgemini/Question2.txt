@@ -1,0 +1,11 @@
+Why to use React over other framework ?	
+    
+    • Performance: React excels at handling dynamic UIs with 
+            minimal re-renders, keeping your app fast and snappy.
+    • Composability: React components promote code reusability, 
+        making development faster and easier to maintain.
+    • JSX: JSX syntax blends JavaScript with HTML, making UI 
+        creation intuitive for developers.
+
+Large Community: A vast community and ecosystem provide support,
+libraries, and tools for rapid development.

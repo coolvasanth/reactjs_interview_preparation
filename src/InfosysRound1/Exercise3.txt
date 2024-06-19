@@ -1,0 +1,42 @@
+What are  ES6 Features ?
+
+	• Arrow Functions: Concise syntax for defining functions. 
+JavaScript
+const greet = name => `Hello, ${name}!`;
+
+ 
+	• Template Literals: Embedded expressions within strings for dynamic content. 
+JavaScript
+const message = `Welcome, ${user.name}`;
+
+ 
+	• Destructuring: Extract properties from objects or arrays. 
+JavaScript
+const { firstName, lastName } = user;
+
+ 
+	• Classes: Object-oriented programming with inheritance. 
+JavaScript
+class Person {
+  constructor(name) {
+    this.name = name;
+  }
+
+greet() {
+    console.log(`Hello, I'm ${this.name}`);
+  }
+}
+
+ 
+	• Modules: Organize code in reusable modules. 
+JavaScript
+// myModule.js
+export function add(a, b) {
+  return a + b;
+}
+
+// main.js
+import { add } from './myModule.js';
+console.log(add(2, 3));
+
+ 

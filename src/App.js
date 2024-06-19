@@ -1,10 +1,10 @@
 import './App.css';
-import Exercise1 from './HardQuestions/Exercise1'
+import Exercise9 from './Top10QuestionsForFreshers/Exercise9'
 function App() {
   return (
     <>
     <h1>Welcome to CareerWithVasanth Youtube channel</h1>
-    <Exercise1 />
+    <Exercise9 />
     </>
   );
 }

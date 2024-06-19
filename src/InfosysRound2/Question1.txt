@@ -1,0 +1,8 @@
+1. What are props in Reactjs ?
+
+Building Blocks of Communication
+Imagine building Lego houses. Each Lego piece has properties that 
+define its color, size, and shape. Similarly, in React, props are 
+properties passed down from parent components to child components. 
+They act as a way for components to communicate and share data. 
+This allows you to create reusable and dynamic components!

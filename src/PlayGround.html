@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Example</title>
+  <style>
+    .text {
+      color: blue;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="heading">This is a heading</h1>
+  <p class="text">This is a paragraph with class "text"</p>
+  <p class="text">This is second paragraph with class "text"</p>
+  <button id="change-button">Change Text</button>
+  <script>
+    const heading = document.getElementById("heading");
+    const texts = document.getElementsByClassName("text");
+
+    const changeButton = document.getElementById("change-button");
+
+    changeButton.addEventListener("click", function() {
+      heading.textContent = "Heading text changed!";
+      texts[0].style.color = "red";  // Change color of the first paragraph
+    });
+  </script>
+</body>
+</html>

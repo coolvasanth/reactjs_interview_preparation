@@ -1,0 +1,20 @@
+What are promises ?
+
+	• Promises: Represent the eventual completion (or failure) of an asynchronous operation.
+	• Benefits: 
+		○ Improved code readability and maintainability by handling asynchronous operations asynchronously.
+		○ Chaining of asynchronous operations for a more fluid flow.
+		○ Error handling for potential issues during asynchronous execution.
+
+Code Example (Using Fetch API):
+JavaScript
+fetch('https://api.example.com/data')
+  .then(response => response.json())
+  .then(data => {
+    console.log(data);
+    // Process the data
+  })
+  .catch(error => {
+    console.error(error);
+    // Handle errors
+  });

@@ -1,0 +1,10 @@
+Difference between Eslint and Jest:
+
+• Eslint: Think of Eslint as a grammar police for your JavaScript code.
+ It enforces coding style, catches potential errors, and helps maintain 
+ code consistency. 
+
+• Jest: Jest is your testing warrior. It helps you write unit tests to 
+ensure your React components function correctly. You don't specify a 
+percentage; Jest reports the test coverage, allowing you to identify 
+areas for improvement.

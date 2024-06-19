@@ -1,0 +1,5 @@
+What are states in ReactJS ?
+
+Think of state as the internal memory of a component. 
+It allows components to react to user interactions or data changes. 
+You can use the useState hook to manage state in functional components.

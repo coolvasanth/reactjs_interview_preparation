@@ -1,0 +1,14 @@
+What are arrow functions in JS ?
+
+Arrow functions (introduced in ES6) are a 
+concise way to write JavaScript functions. 
+They're often preferred for their cleaner syntax, 
+especially when dealing with props and state in React components.
+
+Example of an Arrow Function:
+JavaScript
+
+const handleClick = () => {
+  console.log('Button clicked!');
+};
+handleClick()

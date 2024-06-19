@@ -1,0 +1,7 @@
+What is redux ? and when to use it ?
+
+Redux (although not strictly required for basic React applications)
+is a popular state management library for managing complex application 
+state. It provides a centralized store to hold your application's state, 
+actions to update that state, and reducers to handle those updates.
+(Think of it as a central bank for your app's data!)

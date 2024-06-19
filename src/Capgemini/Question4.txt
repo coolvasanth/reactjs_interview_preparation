@@ -1,0 +1,7 @@
+What is <a> Tag and why to use it ?
+
+The <a> tag is your link to the web world! It creates hyperlinks 
+that, when clicked, navigate users to a different URL (or a different 
+part of the same page, using internal links). But it's more versatile 
+than you might think! You can use it for buttons, download links, 
+and even email links.

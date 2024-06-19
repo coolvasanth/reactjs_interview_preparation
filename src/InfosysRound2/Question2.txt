@@ -1,0 +1,12 @@
+What are different Component Types: 
+
+React offers two main types of components:
+
+Class Components: These are like blueprints defining how a 
+component behaves and renders. They use the class keyword and 
+allow for functionalities like state management and lifecycle methods.
+
+Functional Components: These are simpler and more concise. 
+They are pure functions that take props as input and return JSX 
+to describe what the component renders. They're a great choice 
+for presentational components.

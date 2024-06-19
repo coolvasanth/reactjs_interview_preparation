@@ -1,0 +1,17 @@
+What are stateless components in react ?
+
+Stateless components, essentially functional components, 
+don't manage internal state. They simply take props as 
+input and return JSX based on those props. This makes 
+them lightweight and easier to reason about.
+
+Example of a Stateless Component:
+
+
+function Greeting(props) {
+  return (
+    <div>
+      <h1>Hello, {props.name}!</h1>
+    </div>
+  );
+}

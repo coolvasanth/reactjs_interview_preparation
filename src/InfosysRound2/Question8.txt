@@ -1,0 +1,7 @@
+What is strict mode in JS
+
+React's Strict Mode is a development tool that helps identify potential 
+issues in your application code. It enables warnings for deprecated 
+features, lifecycle methods, and other potential problems, 
+allowing you to catch them early during development.
+
