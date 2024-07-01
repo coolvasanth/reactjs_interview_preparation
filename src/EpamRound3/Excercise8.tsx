@@ -1,0 +1,1 @@
+// Discuss the concept of creating custom data types in TypeScript

@@ -1,0 +1,1 @@
+// Explain the concept of Higher-Order Components (HOCs) in React and their purpose.

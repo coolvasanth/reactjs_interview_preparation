@@ -1,0 +1,1 @@
+// Explain the concept of reconciliation in React and how it optimizes re-rendering.

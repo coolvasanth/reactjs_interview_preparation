@@ -1,0 +1,1 @@
+// Mention popular design patterns that you're aware off
